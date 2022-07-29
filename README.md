@@ -18,10 +18,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<p><b>Фронтенд:</b> Java Script, React, Redux(Saga, Thunk), TypeScript, HTML5, CSS3 </p>
-<p><b>Бекенд:</b> Node.js, Express, Sessions </p>
-<p><b>Базы данных:</b> PostgreSQL, Sequelize ORM </p>
-
 ***
 
 
